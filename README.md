@@ -72,5 +72,5 @@ I'm a passionate full-stack developer who loves building amazing web and mobile 
 </p>
 
 <p align="center">
-  <img src="https://github.com/wangsa19/wangsa19/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/wangsa19/wangsa19/tree/main/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
