@@ -71,6 +71,8 @@ I'm a passionate full-stack developer who loves building amazing web and mobile 
   <img src="https://github-profile-trophy.vercel.app/?username=wangsa19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/wangsa19/wangsa19/blob/main/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+</p> -->
+![GitHub Contribution Grid](assets/github-user-contribution.svg)
+
