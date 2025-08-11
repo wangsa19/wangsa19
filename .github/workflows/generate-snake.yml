@@ -27,4 +27,4 @@ jobs:
           message: "Generate snake animation"
           add: "output/github-contribution-grid-snake.svg"
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
