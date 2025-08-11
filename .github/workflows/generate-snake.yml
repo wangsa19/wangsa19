@@ -18,6 +18,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             ./output/github-contribution-grid-snake.svg
+      
+      - name: Commit generated changes
+        run: |
+          git add .
+          git commit -m "chore: save generated snake before rebase" || echo "No changes to commit"
 
       - name: Pull latest changes
         run: |
